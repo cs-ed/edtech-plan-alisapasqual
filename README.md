@@ -23,7 +23,7 @@ All students will be provided with a 1-to-1 Acer C7 Chromebook that they must br
 well as any software the instructor will use. This should include any software
 installed as well as any online services.*
 
-Students will use google classroom to have access to materials and links that are posted by the teacher. This is also where they will submit assignments for a grade by posting links to their projects. After evaluating students' levels, the teacher may decide to introduce basic block coding so students get an introduction into computer science by using the software called Scratch (https://scratch.mit.edu). Once students have a better foundation, they will use Replit (https://replit.com/) to learn the Python language. This software also allows for student collaboration and can be used for individual as well as group projects. All websites can be access via the internet and are high school ageappropraite.
+Students will use google classroom to have access to materials and links that are posted by the teacher. This is also where they will submit assignments for a grade by posting links to their projects. After evaluating students' levels, the teacher may decide to introduce basic block coding so students get an introduction into computer science by using the software called Scratch (https://scratch.mit.edu). Once students have a better foundation, they will use Replit (https://replit.com/) to learn the Python language. This software also allows for student collaboration and can be used for individual as well as group projects. All websites can be access via the internet and are high school age appropraite.
 
 ### Hardware Specifications
 
