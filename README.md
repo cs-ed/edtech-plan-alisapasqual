@@ -30,7 +30,9 @@ Students will use google classroom to have access to materials and links that ar
 *Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.*
 
-Students will be provided with an Acer C7 Chromebook with Chromium OS, Intel Celeron Processor 1.4 GHz, 2GB RAM, and 100 GB of Google Drive Cloud Storage with 16 GB SSD. Students will connect to the school's student wifi to access the internet, although the chromebook will have a dedicated ethernet port.
+Students will be each provided with an Acer C7 Chromebook with an 11.6" display, Chromium OS, Intel Celeron Processor 1.4 GHz, 2GB RAM, and 100 GB of Google Drive Cloud Storage with 16 GB SSD. Students will connect to the school's student wifi to access the internet, although the chromebook will have a dedicated ethernet port.
+
+Teachers will be provided with a Lenovo Thinkbook with a 15.6" display, Windows 11 OS, Intel Core i5 Processor 4.4 GHz, 16 GB RAM, and 512 GB SSD Storage. Teachers will connect to the school's staff-only wifi to access the internet and will be able to connect to the classroom's front projector or smart board.
 
 ### Application: To be completed for final exam
 
@@ -38,9 +40,16 @@ Students will be provided with an Acer C7 Chromebook with Chromium OS, Intel Cel
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.*
 
+- Scratch for introduction
+- Replit for Python coding (student collaboration on Python)
+- Students submit assignments on Google Classroom for teachers to provide feedback/comments on there
+
 ### Impacts: To be completed for final exam
 
 *How will the technology help all students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.*
+
+- Easy to transition to virtual education because everything will be online
+- Might be a bit difficult if students are using iPads/Tablets to type (would recommend students get a keyboard if using tablet device)
