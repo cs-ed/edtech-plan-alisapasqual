@@ -34,7 +34,7 @@ Students will be each provided with an Acer C7 Chromebook with an 11.6" display,
 
 Teachers will be provided with a Lenovo Thinkbook with a 15.6" display, Windows 11 OS, Intel Core i5 Processor 4.4 GHz, 16 GB RAM, and 512 GB SSD Storage. Teachers will connect to the school's staff-only wifi to access the internet and will be able to connect to the classroom's front projector or smart board.
 
-### Application: To be completed for final exam
+### Application
 
 *Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
@@ -46,7 +46,7 @@ About one-third of the way through the semester (or sooner depending on students
 
 A final exam will be given in an on-demand coding format where students will be given a prompt and two hours to create a code that fulfills the prompt's requirements. This will be an individual assignment and no collaboration will be allowed to ensure that the teacher can understand what each student learned individually.
 
-### Impacts: To be completed for final exam
+### Impacts
 
 *How will the technology help all students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
